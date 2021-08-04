@@ -8,7 +8,7 @@ Hello! Here is a bit about what I did for the Coding Challenge:
 * Usage instruction: run 'python3 main.py'
 
 
-Next Steps: (TBA)
+Next Steps:
 
 * Improve format of data retrieved
 
