@@ -1,7 +1,7 @@
 import json
 import requests
 # import ../config/data.py   # line below might be a better candidate 
-from data import *
+from ../config/data.py import *
 
 # if the user were to enter 'menu'
 def picked_menu():
