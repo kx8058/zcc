@@ -14,9 +14,9 @@ Next Steps:
 
 * Implement tests: 
 	
-	- Show message if there is an inability to connect to API or the user has entered an in valid response 
+	- Show message if there is an inability to connect to API or the user has entered an invalid response 
 	
-	- Show message if there a program error
+	- Show message if there is a program error
 
 
 Thank you for this opportunity and taking the time to look over my efforts! Please let me know if there are any questions. I hope you have a great day!
