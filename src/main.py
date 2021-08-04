@@ -1,7 +1,7 @@
 import json
 import requests
 # import ../config/data.py   # line below might be a better candidate 
-import data.py
+from data import *
 
 def picked_menu():
 	menu_choice = input("You have picked 'menu'. Here are the next options:")
@@ -12,9 +12,9 @@ def picked_menu():
 	if menu_choice != '1' and menu_choice != '2' and menu_choice != 'quit':
 		print("Sorry, I don't think you entered one of the given choices. Please try again.")
 	elif menu_choice == '1':
-		# show all tickets
+		name_each_group()
 	elif menu_choice == '2': 
-		# show a ticket
+		first_group()
 	else:
 		print("You have picked 'quit'. Thank you for using the viewer. Goodbye!")
 
